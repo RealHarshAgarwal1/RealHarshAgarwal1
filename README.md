@@ -53,8 +53,8 @@ A passionate and dedicated developer with a strong focus on creating robust and 
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=realharshagarawal1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Harsh's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realharshagarawal1&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=realharshagarwal1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Harsh's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realharshagarwal1&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
 
 ---
