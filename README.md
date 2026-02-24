@@ -39,7 +39,7 @@ A passionate and dedicated developer with a strong focus on creating robust and 
 - **Version Control:** Git, GitHub
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://skillicons.dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=figma,html,css,sass,js,ts,nodejs,deno,react,nextjs,mongodb,mysql,git,github&perline=14" alt="Skill Icons" />
   </a>
 </p>
@@ -49,13 +49,11 @@ A passionate and dedicated developer with a strong focus on creating robust and 
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=realharshagarawal1&theme=react-dark&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="100%" /> 
+  <a href="https://github.com/realharshagarwal1" target="_blank">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=realharshagarwal1&bg_color=EBE9E2&color=000000&line=000000&point=000000&title_color=000000&hide_border=true" alt="Activity Graph" width="100%" /> 
+  </a>
 </div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=realharshagarwal1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Harsh's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realharshagarwal1&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
+
 
 ---
 
